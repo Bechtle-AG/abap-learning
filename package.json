@@ -1,0 +1,12 @@
+{
+    "name": "abaplearnings",
+    "version": "1.0.0",
+    "description": "Learn ABAP",
+    "author": "Bechtle AG",
+    "contributors": [
+        "miggi92"
+    ],
+    "packageManager": "pnpm@9.6.0",
+    "license": "CC0-1.0",
+    "keywords": ["ABAP", "Tutorial", "Learn", "SAP"]
+}
