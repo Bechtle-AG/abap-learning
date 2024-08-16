@@ -11,7 +11,8 @@ CLASS ltcl_hello_world DEFINITION FINAL FOR TESTING DURATION SHORT RISK LEVEL HA
     METHODS setup.
     "! <p class="shorttext synchronized">Teardown</p>
     METHODS teardown.
-
+    
+    "! <p class="shorttext synchronized">Test if hello world is returned</p>
     METHODS test_hello_world FOR TESTING.
 ENDCLASS.
 
