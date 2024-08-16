@@ -9,13 +9,13 @@ importers:
   .:
     devDependencies:
       '@abaplint/cli':
-        specifier: ^2.91.3
+        specifier: ^2.112.17
         version: 2.112.17
       '@abaplint/runtime':
-        specifier: ^2.0.43
+        specifier: ^2.10.9
         version: 2.10.9
       '@abaplint/transpiler-cli':
-        specifier: ^2.0.43
+        specifier: ^2.10.9
         version: 2.10.9
 
 packages:
