@@ -8,5 +8,10 @@
     ],
     "packageManager": "pnpm@9.6.0",
     "license": "CC0-1.0",
-    "keywords": ["ABAP", "Tutorial", "Learn", "SAP"]
+    "keywords": ["ABAP", "Tutorial", "Learn", "SAP"],
+    "devDependencies": {
+        "@abaplint/cli": "^2.91.3",
+        "@abaplint/runtime": "^2.0.43",
+        "@abaplint/transpiler-cli": "^2.0.43"
+      }
 }

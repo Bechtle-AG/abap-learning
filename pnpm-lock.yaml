@@ -1,0 +1,55 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      '@abaplint/cli':
+        specifier: ^2.91.3
+        version: 2.112.17
+      '@abaplint/runtime':
+        specifier: ^2.0.43
+        version: 2.10.9
+      '@abaplint/transpiler-cli':
+        specifier: ^2.0.43
+        version: 2.10.9
+
+packages:
+
+  '@abaplint/cli@2.112.17':
+    resolution: {integrity: sha512-Y9aXvifxShhdr1LA7XRI9t8n2hR6oZGV2NyHMj6dlRPFKxBg01Sarvc8x0nX+gyeiqLoxN39O1TAqf9SoQH/4Q==}
+    engines: {node: '>=12.0.0'}
+    hasBin: true
+
+  '@abaplint/runtime@2.10.9':
+    resolution: {integrity: sha512-nv7Roq93DEF6iAEG2e6LLF7ImuSjhQ85gC8J8kqC15UZxoKkwr1PjXlncMEDwTHivCMcOisIijTRaut8Rv9AJw==}
+
+  '@abaplint/transpiler-cli@2.10.9':
+    resolution: {integrity: sha512-7N7rXXw4Izm9o/nZruIowNGu1nlJ8zjJjQZJBJg5L8cuArx6uS4lD/RD28jgK6KPUPmycpSBMpnfrIdtZN/05Q==}
+    hasBin: true
+
+  temporal-polyfill@0.2.5:
+    resolution: {integrity: sha512-ye47xp8Cb0nDguAhrrDS1JT1SzwEV9e26sSsrWzVu+yPZ7LzceEcH0i2gci9jWfOfSCCgM3Qv5nOYShVUUFUXA==}
+
+  temporal-spec@0.2.4:
+    resolution: {integrity: sha512-lDMFv4nKQrSjlkHKAlHVqKrBG4DyFfa9F74cmBZ3Iy3ed8yvWnlWSIdi4IKfSqwmazAohBNwiN64qGx4y5Q3IQ==}
+
+snapshots:
+
+  '@abaplint/cli@2.112.17': {}
+
+  '@abaplint/runtime@2.10.9':
+    dependencies:
+      temporal-polyfill: 0.2.5
+
+  '@abaplint/transpiler-cli@2.10.9': {}
+
+  temporal-polyfill@0.2.5:
+    dependencies:
+      temporal-spec: 0.2.4
+
+  temporal-spec@0.2.4: {}
