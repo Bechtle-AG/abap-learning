@@ -1,4 +1,4 @@
-# Exercise 1: Introduction to ABAP
+# Exercise 1: Hello ABAP
 
 ## What is ABAP?
 
@@ -6,6 +6,10 @@ ABAP (Advanced Business Application Programming) is a high-level programming lan
 
 ## First program in ABAP
 
-The first program that you will write in ABAP is a simple "Hello, World!" program. This program will display the text "Hello, World!" on the screen.
-With the `write` statement, you can display text on the screen. Please use the `src` folder to create your program.
+The first program that you will write in ABAP is a simple "Hello, World!" program. In this project everything can be done without an SAP System.
+Therefore hello world is returned by a class. You can find the class in the `src` folder.
+You can test your result by simply running the test class.
+```bash
+pnpm run unit
+```
 

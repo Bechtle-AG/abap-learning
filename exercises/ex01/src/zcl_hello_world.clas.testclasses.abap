@@ -18,7 +18,7 @@ ENDCLASS.
 
 CLASS ltcl_hello_world IMPLEMENTATION.
   METHOD test_hello_world.
-    data expected type string value 'Hello World'.	
+    data expected type string value 'Hello, World!'.	
     data hello_world type string.
 
     hello_world = test_instance->hello_world( ).
