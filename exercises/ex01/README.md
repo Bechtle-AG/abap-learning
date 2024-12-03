@@ -28,7 +28,7 @@ The `LOWER CASE` addition to the `TYPE` statement will ensure that the input fie
 Add the following code to the report after the `START-OF-SELECTION` statement.
 
 ```abap
-    WRITE: 'Hello', space, p_name.
+    WRITE: 'Hello', p_name.
 ```
 
 ## Unit 3 - Display Hello World 	
