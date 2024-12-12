@@ -2,7 +2,8 @@
 
 > In this excerise, you will create a selection screen with a single input field. When the report is executed, the text from the input field will be displayed with `Hello` in front of it.
 
-The `XX` in the object names should be replaced with your identifier. E.g. your name or initials.
+> [!NOTE]
+> The `XX` in the object names should be replaced with your identifier. E.g. your name or initials.
 
 ## Unit 1 - Create Report
 
