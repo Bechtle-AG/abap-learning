@@ -1,6 +1,12 @@
 # ABAP Learning 
+![GitHub License](https://img.shields.io/github/license/Bechtle-AG/abap-learning?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Bechtle-AG/abap-learning?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Bechtle-AG/abap-learning?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Bechtle-AG/abap-learning?style=for-the-badge)
+
 
 > In this repository, you will find exercises for the ABAP learning path.
+
 
 ## Prerequisites
 
@@ -33,6 +39,10 @@
 </details>
 
 ## Exercises
+
+> [!NOTE]
+> You can find more exercises in `exercism` platform. [Exercism ABAP](https://exercism.io/tracks/abap/exercises)
+
 
 - [Exercise 1: Selection Screen - Hello World]
 - [Exercise 2: Selection Screen - Calculator]
