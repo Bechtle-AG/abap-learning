@@ -41,7 +41,7 @@
 ## Exercises
 
 > [!NOTE]
-> You can find more exercises in `exercism` platform. [Exercism ABAP](https://exercism.io/tracks/abap/exercises)
+> You can find more exercises on the `exercism` platform. [Exercism ABAP](https://exercism.io/tracks/abap/exercises)
 
 
 - [Exercise 1: Selection Screen - Hello World]
