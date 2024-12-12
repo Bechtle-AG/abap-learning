@@ -7,6 +7,11 @@
 - VS Code or Eclipse with a ABAP Server
 
 ### VS Code
+
+<details>
+
+<summary>VS Code</summary>
+
 - [Standalone ABAP Development Extension Pack]
 - node js
 - clone this repository
@@ -15,8 +20,17 @@
     npm install -g pnpm
     ```
 
+</details>
+
 ### Eclipse
+
+<details>
+
+<summary>Eclipse</summary>
+
 - ADT (ABAP Development Tools)
+
+</details>
 
 ## Exercises
 
