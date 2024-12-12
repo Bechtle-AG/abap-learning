@@ -19,6 +19,42 @@
        <ENTRY>Calculator</ENTRY>
        <LENGTH>10</LENGTH>
       </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_ADD</KEY>
+       <ENTRY>Addition</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_DIV</KEY>
+       <ENTRY>Division</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_MUL</KEY>
+       <ENTRY>Multiply</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_NUM1</KEY>
+       <ENTRY>Number 1</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_NUM2</KEY>
+       <ENTRY>Number 2</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_SUB</KEY>
+       <ENTRY>Subtract</ENTRY>
+       <LENGTH>16</LENGTH>
+      </item>
      </TEXTPOOL>
     </item>
    </I18N_TPOOL>
